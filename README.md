@@ -1,2 +1,3 @@
 # e_comm
-this is my git Repo.
+this is my 1 git Repo.
+Author - Pawan Gather.
